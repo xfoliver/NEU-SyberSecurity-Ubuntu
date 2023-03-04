@@ -1,0 +1,10 @@
+all: java
+
+java:
+
+        javac xkcdpwgen.java
+        
+         $java Program <args>
+         
+         #!/bin/bash
+java Program $@
