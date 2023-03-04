@@ -1,0 +1,3 @@
+ $java xkcdpwgen <args>
+#!/usr/bin/env bash
+java xkcdpwgen "$@"
